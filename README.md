@@ -47,7 +47,7 @@ You only need a modern web browser. Visual Studio Code and the Live Server exten
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Cause-Effect-App.git
+git clone https://github.com/Taunt-byte/Cause-Effect-App.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -105,15 +105,8 @@ Possible improvements for future versions include:
 
 ## 📸 Screenshots
 
-Add a screenshot of the application to showcase its interface.
+![Cause Effect App Preview](assets/preview.png)
 
-Example:
-
-```markdown
-![Cause Effect App Preview](./assets/preview.png)
-```
-
-Make sure the screenshot exists at the specified path in your repository.
 
 ## 👨‍💻 Author
 
