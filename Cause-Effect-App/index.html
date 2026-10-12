@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Cause Effect App</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main class="container">
+        <header class="header">
+            <h1>Cause Effect App</h1>
+            <p>Select a programming language to see its details.</p>
+        </header>
+
+        <section class="app">
+            <div class="list-section">
+                <h2>Programming Languages</h2>
+                <ul id="language-list" class="language-list"></ul>
+            </div>
+
+            <section id="details" class="details" aria-live="polite">
+                <h2 id="detail-title">Welcome!</h2>
+                <p id="detail-description">
+                    Select an item from the list to display its details.
+                </p>
+                <p id="detail-use"></p>
+            </section>
+        </section>
+    </main>
+</body>
+</html>
